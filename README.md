@@ -1,4 +1,4 @@
-# Teams made in C
+# Teams backend and client made in C
 
 ## How to Launch the Project
 
